@@ -1,0 +1,17 @@
+{
+  "name": "colorgen",
+  "repo": "andyburke/colorgen",
+  "description": "A simple javascript library to easily generate color pallettes.",
+  "version": "0.0.1",
+  "keywords": [
+    "colors"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "generator.js",
+  "scripts": [
+    "generator.js",
+    "color.js"
+  ]
+}
